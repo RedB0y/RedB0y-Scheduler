@@ -1,8 +1,8 @@
 {
-  "PC": 1,
+  "PC": 0,
   "SubNames": [
-    "LINUX",
     "PREP",
+    "LINUX",
     "KIM_P",
     "WIFI_P",
     "WEB_D",
@@ -90,8 +90,8 @@
       1.0
     ]
   ],
-  "RowCounter": 10,
-  "WeekCounter": 1,
+  "RowCounter": 2,
+  "WeekCounter": 7,
   "TaskHours": 2,
   "ScheduledWeek": 7,
   "NoOfTasks": 3
